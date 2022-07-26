@@ -11,7 +11,7 @@ function getParams(){
     var sesija = document.getElementById("session").value
 
     if(name == "" || index == "" || phone == "" || grade == "" || sesija == ""){
-        alert("SHAHEER SCHOOL IS FULL")
+        alert("Fill the Space")
     }else{
 
         tabela = document.getElementById("tabela");
